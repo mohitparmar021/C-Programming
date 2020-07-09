@@ -29,7 +29,7 @@ int fib(int n)    // fibonacci using iterative method
 	return sum;
 }
 
-void fibno(int n)
+void fibno(int n)    // for printing a series of Fibonacci for n 
 {
     int n1 = 0, n2 = 1, i,sum;
 
